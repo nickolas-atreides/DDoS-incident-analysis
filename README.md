@@ -16,5 +16,7 @@ To address this security event, the network security team implemented:
 - Network monitoring software to detect abnormal traffic patterns
 - An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
-### [Results](https://github.com/nickolas-atreides/DDoS-incident-analysis/blob/main/Incident%20report%20analysis.pdf)
+### Results [(click on me or use the link below)](https://github.com/nickolas-atreides/DDoS-incident-analysis/blob/main/Incident%20report%20analysis.pdf)
+https://github.com/nickolas-atreides/DDoS-incident-analysis/blob/main/Incident%20report%20analysis.pdf
+
 
