@@ -1,7 +1,7 @@
 # DDoS-incident-analysis
 
 
-# A DDoS attack report analysis categorised by NIST CS
+# A DDoS attack report analysis categorised by NIST CSF
 ### Part of Google Cybersecurity Certificate program (https://www.coursera.org/specializations/cybersecurity-certificate)
 ### The task:
 Use this security event to create a plan to improve your company’s network security, following the NIST CSF
